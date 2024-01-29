@@ -2,7 +2,7 @@
 Python implementation of Sparse Neighbour Joining (SNJ).
 
 ## Example usage:
-sparseNJ --dataset 16SE --num_of_seed 3
+python sparseNJ.py --dataset 16SE --num_of_seed 3
 
 
 *******************************************
